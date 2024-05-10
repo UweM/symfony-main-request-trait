@@ -10,7 +10,7 @@ A convenience library for library maintainers of Symfony bundles or libraries us
 changed the naming from `master` to `main` in multiple places this had the consequence that certain methods were deprecated
 in Symfony v5 and removed in v6.
 
-This library will let you support Symfony v4-v6 and not even think about the renaming :)
+This library will let you support Symfony v4-v7 and not even think about the renaming :)
 
 ## Installation
 
